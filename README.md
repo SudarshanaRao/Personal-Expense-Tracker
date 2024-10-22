@@ -220,3 +220,30 @@ This is a simple RESTful API built using **Node.js** and **Express.js** to manag
 
 **Description:** Add a new transaction (income or expense).
 
+![Image](assets/Screenshot-1.png)
+
+### GET /transactions
+
+**Description:** Retrieves all transactions.
+
+![Image](assets/Screenshot-2.png)
+
+### GET /transactions/:id
+
+**Description:** Retrieves a specific transaction by ID.
+
+![Image](assets/Screenshot-3.png)
+
+### PUT /transactions/
+
+**Description:** Updates a specific transaction by ID.
+
+![Image](assets/Screenshot-4.png)
+
+### DELETE /transactions/
+
+**Description:** Deletes a specific transaction by ID.
+
+![Image](assets/Screenshot-5.png)
+
+
