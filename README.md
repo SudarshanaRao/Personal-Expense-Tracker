@@ -23,7 +23,7 @@ This is a simple RESTful API built using **Node.js** and **Express.js** to manag
 1. **Clone the repository:**
 
     ```
-    git clone <repository-url>
+    git clone https://github.com/SudarshanaRao/Personal-Expense-Tracker.git
     cd personal-expense-tracker
     ```
 
